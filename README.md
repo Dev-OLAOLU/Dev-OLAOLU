@@ -16,6 +16,7 @@ I ship interactive web products — multi-page product UIs, live application fun
 - **Apply:** [Start application](https://wunna-application-form.vercel.app/apply)
 - **GitHub Pages:** [applicationform](https://dev-olaolu.github.io/applicationform/)
 - **Wunnaxswap (product demo):** [github.com/Dev-OLAOLU/wunnaxswap](https://github.com/Dev-OLAOLU/wunnaxswap)
+- **LinkedIn:** [ayantoyinbo-david](https://www.linkedin.com/in/ayantoyinbo-david-9b5aa6240/)
 - **Email:** davidayantoyinbo@gmail.com
 
 ### 🛠️ Stack
