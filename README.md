@@ -28,6 +28,7 @@ I ship interactive web products — multi-page product UIs, live application fun
 |--------|-------------|--------|
 | **applicationform** | Live recruitment site: landing + apply form + email pipeline; mobile-hardened submit | [Repo](https://github.com/Dev-OLAOLU/applicationform) · [Live](https://wunna-application-form.vercel.app/) |
 | **wunnaxswap** | Crypto marketplace UI demo: markets, spot/futures, swap, arbitrage, earn, AI chat, deposit addresses | [Repo](https://github.com/Dev-OLAOLU/wunnaxswap) |
+| **Home-listing-web-app** | Nigerian property listings portal (Budget Crib Finder): search, filters, favorites, agent inquiry · React/TS | [Repo](https://github.com/Dev-OLAOLU/Home-listing-web-app) · [Live](https://budget-crib-finder.vercel.app) |
 | **AI AGRI DRYER** | Solar–biomass hybrid dryer commercial pilot (productive-use energy access) | Portfolio / proposal work |
 
 ### 📌 Open to
