@@ -9,6 +9,7 @@ I ship interactive web products — multi-page product UIs, live application fun
   <a href="https://wunna-application-form.vercel.app/"><img src="https://img.shields.io/badge/Live-Wunna%20Form-7c3aed?style=for-the-badge" alt="Live Wunna" /></a>
   <a href="https://github.com/Dev-OLAOLU/applicationform"><img src="https://img.shields.io/badge/Repo-applicationform-0891b2?style=for-the-badge" alt="applicationform" /></a>
   <a href="https://github.com/Dev-OLAOLU/wunnaxswap"><img src="https://img.shields.io/badge/Repo-Wunnaxswap-6d28d9?style=for-the-badge" alt="wunnaxswap" /></a>
+  <a href="https://budget-crib-finder.vercel.app"><img src="https://img.shields.io/badge/Live-Better%20Home-059669?style=for-the-badge" alt="Better Home" /></a>
 </p>
 
 ### 🔗 Links
@@ -16,11 +17,12 @@ I ship interactive web products — multi-page product UIs, live application fun
 - **Apply:** [Start application](https://wunna-application-form.vercel.app/apply)
 - **GitHub Pages:** [applicationform](https://dev-olaolu.github.io/applicationform/)
 - **Wunnaxswap (product demo):** [github.com/Dev-OLAOLU/wunnaxswap](https://github.com/Dev-OLAOLU/wunnaxswap)
+- **Better Home Properties:** [budget-crib-finder.vercel.app](https://budget-crib-finder.vercel.app)
 - **LinkedIn:** [ayantoyinbo-david](https://www.linkedin.com/in/ayantoyinbo-david-9b5aa6240/)
 - **Email:** davidayantoyinbo@gmail.com
 
 ### 🛠️ Stack
-`JavaScript` `HTML` `CSS` `Git` `GitHub Pages` `Vercel` `Node` · Product UX · Responsive UI
+`JavaScript` `TypeScript` `React` `HTML` `CSS` `Git` `GitHub Pages` `Vercel` `Node` · Product UX · Responsive UI
 
 ### 🚀 Featured work
 
@@ -28,7 +30,7 @@ I ship interactive web products — multi-page product UIs, live application fun
 |--------|-------------|--------|
 | **applicationform** | Live recruitment site: landing + apply form + email pipeline; mobile-hardened submit | [Repo](https://github.com/Dev-OLAOLU/applicationform) · [Live](https://wunna-application-form.vercel.app/) |
 | **wunnaxswap** | Crypto marketplace UI demo: markets, spot/futures, swap, arbitrage, earn, AI chat, deposit addresses | [Repo](https://github.com/Dev-OLAOLU/wunnaxswap) |
-| **Home-listing-web-app** | Nigerian property listings portal (Budget Crib Finder): search, filters, favorites, agent inquiry · React/TS | [Repo](https://github.com/Dev-OLAOLU/Home-listing-web-app) · [Live](https://budget-crib-finder.vercel.app) |
+| **budget-crib-finder** | BETTER HOME PROPERTIES — Nigerian property listings: search, filters, favorites, dual Lagos offices | [Repo](https://github.com/Dev-OLAOLU/budget-crib-finder) · [Live](https://budget-crib-finder.vercel.app) |
 | **AI AGRI DRYER** | Solar–biomass hybrid dryer commercial pilot (productive-use energy access) | Portfolio / proposal work |
 
 ### 📌 Open to
